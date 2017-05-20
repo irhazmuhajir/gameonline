@@ -27,10 +27,12 @@ public class Show{
 	}
 	
 	public void nameClan() {
+		System.out.println("------------------------);
 		System.out.println("Daftar Clan");
 		System.out.println("1. Fakultas Teknik");
 		System.out.println("2. Fakultas Keguruan dan Pendidikan");
 		System.out.println("3. Fakultas Kesehatan");
-		System.out.print("Masukan Pilihan : ");			
+		System.out.print("Masukan Pilihan : ");	
+		System.out.println("------------------------);		   
 	}
 }
